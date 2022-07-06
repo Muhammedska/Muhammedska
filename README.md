@@ -42,6 +42,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <h1>:fire: My Stats :</h1>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammedska&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id='stats' align='center'>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Muhammedska&theme=dark&background=000000" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedska&layout=compact&theme=vision-friendly-dark" >
+</div>
+
 
 
