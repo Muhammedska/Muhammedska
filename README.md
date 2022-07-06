@@ -49,8 +49,9 @@
 
 <h1>:fire: My Stats :</h1>
 <div id='stats' align='center'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Muhammedska&theme=dark&background=000000" ><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedska&layout=compact&theme=vision-friendly-dark" >
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Muhammedska&theme=dark&background=000000" width="500px"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedska&layout=compact&theme=vision-friendly-dark" width="500px"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedska&show_icons=true&theme=radical" width="500px">
 </div>
 
 
